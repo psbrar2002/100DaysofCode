@@ -1,2 +1,2 @@
 # 100DaysofCode
-100 day coding
+100 days of coding
